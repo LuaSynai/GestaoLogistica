@@ -1,8 +1,8 @@
-# Projeto Notifica
+# Gestã logistica
 
 ## Descrição
 
-O **Projeto Notifica** é uma aplicação web desenvolvida para monitorar e gerenciar tributos estaduais e federais de instituições de forma eficiente e integrada. A ferramenta permite o acompanhamento em tempo real dos tributos pagos e pendentes, facilitando o processo de gestão financeira e garantindo conformidade fiscal.
+O **Gestao logistica** é uma aplicação web desenvolvida para monitorar e gerenciar tributos estaduais e federais de instituições de forma eficiente e integrada. A ferramenta permite o acompanhamento em tempo real dos tributos pagos e pendentes, facilitando o processo de gestão financeira e garantindo conformidade fiscal.
 
 ## Funcionalidades
 
